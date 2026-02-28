@@ -1,7 +1,9 @@
----
+y68---
 manufacturer: 
-    - oppo
+      
+ go. una sensibilidad, para un-guapo.
 
+ 
 ---
 
 ## Oppo F1S
